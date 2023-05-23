@@ -1,2 +1,2 @@
 # first.repository
-Repository of the example on the SESI Cajamar 
+Repository to the example on the SESI Cajamar 
